@@ -1,0 +1,48 @@
+### Topics
+
+1.  Pseudo classes - ✅
+2.  Beast task - ✅
+3.  overflow - ✅
+4.  flex - ✅
+5.  icons - ✅
+6.  box shadow - ✅
+7.  Measurements - CSS units
+
+### Additional session
+
+1. Grid
+2. Position
+3. Media query
+
+### overflow
+
+1. visible - overflowed content would be visible
+2. scroll - both sides scroll-bar will be visible
+3. auto - scroll-bar only in required axis
+4. hidden - overflowed content would be cut-off
+
+### flex
+
+1. Layout
+2. Distribute the space
+3. References
+   1. https://flexboxfroggy.com/
+   2. https://www.flexboxgame.com/
+   3. https://ragavkumarv.com/flex/
+
+### icons
+
+1. SVG - preferred format for icons
+
+   1. Doesnot loose quality when zoomed in
+   2. Light weight
+
+2. References
+   1. https://cdnjs.com/libraries/font-awesome
+   2. https://fontawesome.com/icons
+
+### box shadow
+
+1. Highlighting content
+2. eg: neon sites
+3. https://cssgenerator.org/box-shadow-css-generator.html

@@ -1,0 +1,13 @@
+### Building CRUD app
+
+1. GET - Read
+   1. Build it HTML
+   1. Style it with CSS
+   1. Take the HTML to JS with help of
+      1. ``
+      2. document.innerHTML
+   1. Interpolation with one user
+   1. loop with forEach & createUser
+   1. Now replace mock data with API fecth call
+2. Delete - DELETE
+   1. onclick -> deleteUser(id) -> DELETE -> loadUser -> wipe (body) -> createUser

@@ -1,0 +1,33 @@
+### Types of color format
+
+1. name
+2. RGB - Red Green Blue
+3. HSL - Hue Saturation Lightness - preffered
+   1. 0 < Hue < 360 deg
+   2. 0 < Saturation < 100% - pop
+   3. (black) 0 < Lightness < 100% (white)
+4. HEX - Hexadecimal - old
+   1. usual - 6 letters
+   2. alpha - 8 letters
+5. HWBA - Hue White Blackness Alpha - trending
+   1. Hue
+   2. White - x-axis
+   3. Blackness - y-axis
+
+### Color formats
+
+1. Hold shift + click -> to change color formats
+2. Click -> Color tool
+
+### CSS selector
+
+1. element/tag
+2. class - dot must added in css `.` - preffer
+3. id - `#`
+   1. must be unique in the document
+
+### Specificity
+
+Which style gets applied when there is clash of styles
+
+> !important (UN) > inline style (PM) > #id (CM) > .class (dad) > element (you)

@@ -1,0 +1,38 @@
+### Topics
+
+1. Grid - ✅
+2. Css Units - ✅
+3. Background - ✅
+4. Media query - ✅
+
+### Grid
+
+1. 1fr - ratio
+2. 2D layouts
+3. Overlap layouts
+4. Multiple rows & Multiple columns layouts
+
+### Css Units
+
+1. px
+2. %
+   1. 1% - 1% of parent container
+3. fr
+4. deg
+5. vh, vw
+   1. vh - view port height - 1vh - 1% of screen height
+   2. vw - view port width - 1vw - 1% of screen width
+6. rem
+   1. 1rem - 16px
+
+### Additional Units
+
+1. em
+2. ch
+3. pt
+
+### Media query
+
+1. Responsive website - Adaptability
+2. Mobile first approach
+   1. Develop for mobile first

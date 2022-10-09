@@ -1,0 +1,58 @@
+### Topics
+
+1. Parent Inherit - ✅
+2. Task - ✅
+3. Box model - ✅
+4. Pseudo classes - ✅
+5. Flex
+6. Grid
+
+### `img`
+
+1. Square - height === width
+2. Circle - `border-radius: 50%`
+3. `object-fit`
+   1. cover - zoom in
+   2. contain - zoom out
+4. aspect-ratio
+   1. height === width - `1/1`
+   2. Youtube - 16/9
+   3. Youtube - 21/9
+   4. Old tv - 4/3
+
+### Box model
+
+1. margin - gap between elements/ pushing other elements
+2. border - Its the divide between margin & padding
+3. padding -gap between border & content
+4. content - decided by its original height & width
+
+### span
+
+1. inline element
+2. highlighting text - color, underline, bold, etc
+
+### inline vs block vs inline-block
+
+1. inline - height & width will not be respected
+2. block - height & width will be respected
+3. inline-block
+   1. height & width will be respected
+   2. Adjust with other elements
+
+### Font Types
+
+1. Serif - edges
+   1. Trust-worthy - Bank
+   2. Traditional
+   3. Serious
+2. San-serif - without edges
+   1. Fun
+   2. Trending
+   3. Casual
+3. Handwriting
+4. Google fonts
+   1. All free
+   2. link must be added in head
+   3. `font-family: Roboto, "Poppins", sans-serif;`
+      1. multiple fonts is given as fallback
